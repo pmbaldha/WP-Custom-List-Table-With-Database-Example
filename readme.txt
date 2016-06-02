@@ -1,46 +1,50 @@
-=== Email Read Tracker ===
+=== Custom List Table With Database Example ===
 Contributors: pmbaldha
-Tags: track email, email tracking, email read track, email trace, email tracker, tracing email, reading email, read email
-Requires at least: 3.3
+Tags: example, table, database, data, WP_List_Table, crud, admin, plugin, list table
+Donate link: https://github.com/pmbaldha/
+Requires at least: 3.5
 Tested up to: 4.5.2
 Stable tag: trunk
-License: Priveate
+License: GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Email Read Tracker is a wordpress plugin that lets you know if the emails you’ve sent have been read or not. It is easy to install wordpress plugin.
+A highly documented plugin that demonstrates how to create custom admin list-tables from database using WP_List_Table class.
 
 == Description ==
-Email Read Tracker is a wordpress plugin that lets you know if the emails you’ve sent have been read or not. It is easy to install wordpress plugin that tracks email for read.   It shows email statistics like how many times email has been read with date and time at receiver end.This plugin tracks all emails which have been sent  by native wp_mail function. This plugin allows you to compose and send email from compose email screen of plugin.
+This plugin serves as a highly documented example of using WordPress\'s built-in WP_List_Table class with databse CRUD (Crate, Read, Update, Delete) operations for plugin development. This example serves to help clarify use of the WP_List_Table class with databse for quickly and easily generating consistent, standardized, feature-rich list-tables for WordPress admin screens.
 
+There are several great reasons to display your data in a list table like these:
+1.Stays true to the WordPress core UI
+2.Requires zero custom CSS
+3.Takes less time to create than custom interfaces
+	
+For more information, please visit the WP_List_Tables page in the WordPress Codex.
 
 == Installation ==
-1.Download your WordPress Plugin to your desktop.
-2.If downloaded as a zip archive, extract the Plugin folder to your desktop.
-3.Read through the \"readme\" file thoroughly to ensure you follow the installation instructions.
-4.With your FTP program, upload the Plugin folder to the wp-content/plugins folder in your WordPress directory online.
-5.Go to Plugins screen and find the newly uploaded Plugin in the list.
-6.Click Activate to activate it.
-7.Go to Email Read Tracker > Compose email in admin panel and compose mail and send it.
-8.See sent email read detail on Email Read Tracker in admin side.
+Just Install and Activate It
 
 == Frequently Asked Questions ==
-1.How many emails can i track?
-You can track unlimited emails.
+Is there any configuration require for this plugin?
+No
 
-2.Is this plugin use any third party API?
-No. This plugin doesn\'t require any third party API.
+Is all features of this plugin completely free? 
+Yes
 
-3.Can I know when email receive has been read mail?
-You will get complete list of date time when email receiver read your email
-.
+Where can I get support?
+For support, please contact at pmbaldha@gmail.com
+
+Where can I report bug?=
+For reporting related bugs, please contact at pmbaldha@gmail.com.
 
 == Screenshots ==
-1. Email list with read log
-2. Email full view
-3. Compose email
+1. Person List Table
+2. Add new person
+3. Edit Person
 
 == Changelog ==
-1.0
-Initial version of Email Read Tracker Plugin
+0.1
+* Database CRUD Operations
+* Person Example
 
 == Upgrade Notice ==
-Initial Version. No need to upgrade.
+No need to upgrade, you only need to install plugin. This is first version of plugin
