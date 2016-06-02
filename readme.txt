@@ -11,7 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 A highly documented plugin that demonstrates how to create custom admin list-tables from database using WP_List_Table class.
 
 == Description ==
-This plugin serves as a highly documented example of using WordPress\'s built-in WP_List_Table class with databse CRUD (Crate, Read, Update, Delete) operations for plugin development. This example serves to help clarify use of the WP_List_Table class with databse for quickly and easily generating consistent, standardized, feature-rich list-tables for WordPress admin screens.
+This plugin serves as a highly documented example of using WordPress\'s built-in WP_List_Table class with database CRUD (Crate, Read, Update, Delete) operations for plugin development. This example serves to help clarify use of the WP_List_Table class with databse for quickly and easily generating consistent, standardized, feature-rich list-tables for WordPress admin screens.
 
 There are several great reasons to display your data in a list table like these:
 1.Stays true to the WordPress core UI
