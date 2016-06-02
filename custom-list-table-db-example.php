@@ -6,18 +6,18 @@ Version:     1.0
 Author:      Prashant Baldha
 Author URI:  https://github.com/pmbaldha/
 License:     GPL2
-Your Current Location On Map is free software: you can redistribute it and/or modify
+Custom List Table With Database Example is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 any later version.
  
-Your Current Location On Map is distributed in the hope that it will be useful,
+Custom List Table With Database Example is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
  
 You should have received a copy of the GNU General Public License
-along with Your Current Location On Map. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
+along with Custom List Table With Database Example. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
